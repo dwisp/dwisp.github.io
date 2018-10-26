@@ -1,2 +1,2 @@
-gravatar:           "{{ site.baseurl }}/images/misc/hardwired.jpeg"
+gravatar:           "{{ site.baseurl }}/images/misc/hardwired.png"
 jekyll:             "https://i.imgur.com/aRQcGSi.png"
