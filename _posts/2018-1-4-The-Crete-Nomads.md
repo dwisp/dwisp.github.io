@@ -3,7 +3,7 @@ layout:     post
 title:      The Crete Nomads
 author:     Ivan Petrov
 categories: travel
-thumbnail:  gravatar
+thumbnail:  map-marked-alt
 tags:
  - travel
  - Greece
