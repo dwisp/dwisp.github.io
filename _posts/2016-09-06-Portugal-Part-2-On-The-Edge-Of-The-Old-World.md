@@ -15,7 +15,7 @@ This will probably be the shortest part as it only covers rest of the workcamp s
 
 I would also like to thank all the people who organized the event: Daniela, Ines, Joao, Gil, Amrei, Ivana, Sofia, Cristina and Mariana. Everything was very smooth, the food was amazing and all of the activities you picked were great and entertaining (except the modern art thing, heh). I know for sure that from organizer's perspective that meant a LOT of effort and commitment. You're the best!
 
-Sadly, for some reason I wansn't able to find a decent photo of Mariana, Gil, Daniela and Sofia :(� If you can send me some in good resolution, I'll definitely add them here.
+Sadly, for some reason I wansn't able to find a decent photo of Mariana, Gil, Daniela and Sofia :( If you can send me some in good resolution, I'll definitely add them here.
 
 ## Day 5
 In the morning I rode a bicycle around the Parque de Devesa while everybody else was enjoying yoga lessons. It's not a huge park, but it's definitely beautiful and worth visiting. If it wasn't for the drinking fountains placed around the green area, I would've died of dehydration :(
@@ -37,7 +37,7 @@ Today I finally managed to paint my T-shirt! Yeah! You dig.
 
 That's what I managed to write using the letters I cut out of the stencil:
 
-It turned out we paid for the tickets in advance and the price was our labor  we helped the workers to deconstruct the scene and the surrounding constructions. This turned out to be trickier than I thought initially and there was a wide choice of stuff to do. For example, removing a really long fence that covered side of the field, deconstructing iron walls surrounding the festival area, tear poles and sticks from the ground (that was an enjoyable activity). There were some surprises around as always  like the cold stream and a small bamboo forest nearby (I got to the other side, broke down a small bamboo tree in hopes of getting back, but it didn't work like in a ‘house of flying daggers'). I discovered a couple of small bushes with beautiful violet flowers near the stream.
+It turned out we paid for the tickets in advance and the price was our labor  we helped the workers to deconstruct the scene and the surrounding constructions. This turned out to be trickier than I thought initially and there was a wide choice of stuff to do. For example, removing a really long fence that covered side of the field, deconstructing iron walls surrounding the festival area, tear poles and sticks from the ground (that was an enjoyable activity). There were some surprises around as always  like the cold stream and a small bamboo forest nearby (I got to the other side, broke down a small bamboo tree in hopes of getting back, but it didn't work like in a house of flying daggers'). I discovered a couple of small bushes with beautiful violet flowers near the stream.
 
 The sun was merciless and I had to apply some sunscreen in order not to be burned to a crisp. Milos was too confident in his skin's abilities and now is 75% native American.
 
@@ -59,7 +59,7 @@ Each day is filled with lots of interesting stuff and is totally unique. And the
 
 Next day we went to the beach to chill out.
 
-The place was very windy if you're not inside the tent area. The sand is mixed with the seaweed in some places and the beach itself is a little sloppy. We swam into the cold ocean several times, searching for the warm spots on our way. Thanks to Daniela I got a fluffy pink towel to lie on, a must-have attribute for Indiana Jones. Closer to the evening we with Milos and Gleb went away to the peculiar stone formation nearby to take a closer look.
+The place was very windy if you're not inside the tent area. The sand is mixed with the seaweed in some places and the beach itself is a little sloppy. We swam into the cold ocean several times, searching for the warm spots on our way. Thanks to Daniela I got a fluffy pink towel to lie on, a must have attribute for Indiana Jones. Closer to the evening we with Milos and Gleb went away to the peculiar stone formation nearby to take a closer look.
 
 The stones were rough to touch and were covered in stone-hard corals and moss. Transparent water flew between the stones in small streams.
 
@@ -85,7 +85,7 @@ The next day we got ourselves kicked out of the school.
 
 Everybody was quickly leaving and that felt unexpectedly uneasy, it turned out I got really attached to the people. We wanted to spend a day in Porto and then head to Lisbon for some time, and Aran, our Catalan comrade joined us in this epic journey. After a fruitless attempt to understand local subway's zone-system and validate-ur-ticket-everywhere thing, we took our time to locate the Airbnb flat in Porto and witnessing some military orchestra along the way we reunited with Patricia and Martyna and continued to explore the city.
 
-Despite saying ‘NEVER AGAIN', I trusted the words about size of the francesinha being inversely proportional to its quality and took the risk to explore this meal for the second time. It was a lot better, but still too heavy.
+Despite saying 'NEVER AGAIN', I trusted the words about size of the francesinha being inversely proportional to its quality and took the risk to explore this meal for the second time. It was a lot better, but still too heavy.
 
 And we had to part ways with Patricia, who had a flight back home this evening. Only several hours, lucky her! That was a sad moment and, on a positive side, lots of hugs also.
 
