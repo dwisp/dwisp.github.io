@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Portugal, Part 3, The Night in Lisbon
+title:      Portugal, part 3
 author:     Ivan Petrov
 categories: travel
 thumbnail:  map-marked-alt
@@ -9,7 +9,7 @@ tags:
  - Portugal
  - volunteering
 ---
-# Portugal, Part 3: The Night in Lisbon
+# The Night in Lisbon
 
 ## Lisbon, Day 1
 

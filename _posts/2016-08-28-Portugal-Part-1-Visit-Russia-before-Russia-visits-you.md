@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Portugal, part 1, visit Russia before Russia visits you
+title:      Portugal, part 1
 author:     Ivan Petrov
 categories: travel
 thumbnail:  map-marked-alt
@@ -9,7 +9,7 @@ tags:
  - Portugal
  - volunteering
 ---
-# Portugal, part 1: visit Russia before Russia visits you
+# Visit Russia before Russia visits you
 
 This is the first post about my trip to Portugal which took place this summer. I actually didn’t expect myself writing so much, so the story will be cut into three parts in order to make it possible to read each piece in one go. Sorry if my english is clunky, it’s pretty difficult to write a wall of text this big and maintain great quality, especially considering I’m writing so much in English for the first time. So let’s get started!
 

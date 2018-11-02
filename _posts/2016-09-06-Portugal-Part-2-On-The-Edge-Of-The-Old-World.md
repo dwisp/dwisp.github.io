@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Portugal, part 2, On the Edge of The Old World
+title:      Portugal, part 2
 author:     Ivan Petrov
 categories: travel
 thumbnail:  map-marked-alt
@@ -9,7 +9,7 @@ tags:
  - Portugal
  - volunteering
 ---
-# Portugal, part 2, On the Edge of The Old World
+# On the Edge of The Old World
 
 This will probably be the shortest part as it only covers rest of the workcamp story and our time in Porto. I'd like to keep an entry about Lisbon separate to make it feel more integral.
 
