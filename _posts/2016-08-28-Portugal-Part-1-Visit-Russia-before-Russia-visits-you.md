@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Portugal, part 1
+title:      The Portugal Adventure, part 1
 author:     Ivan Petrov
 categories: travel
 thumbnail:  map-marked-alt

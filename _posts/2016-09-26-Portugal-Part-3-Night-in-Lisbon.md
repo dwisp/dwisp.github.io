@@ -56,7 +56,7 @@ We bought ourselves traditional Portugese sweets in a local shop (which is proba
 We then waited for a long time for a bus or tram to arrive; afterwards it dropped us somewhere in the city. Despite being tired and slightly disoriented, we all agreed to go out and meet again this evening. Only Bogdan decided to stay at the hostel and we said warm goodbyes to each other. We tried to coordinate with others to purchase two bottles of wine in total (whoever does this, notifies others so they don't buy extra). Of course we failed and it resulted in four bottles of wine being brought to the meeting.
 
 
-And there comes a second favor from the Nepalese guy (keep calling him that way because I couldn't quite cath his name): he suddenly offered us half a whiskey bottle so that we'll remember this meeting that happened simply by chance. And guess he succeeded‚
+And there comes a second favor from the Nepalese guy (keep calling him that way because I couldn't quite cath his name): he suddenly offered us half a whiskey bottle so that we'll remember this meeting that happened simply by chance. And guess he succeeded,
 
  
 
