@@ -43,13 +43,13 @@ After the Spanish guys there was a famous Fado (Portuguese folk) singer, but I f
 
 Today I finally managed to paint my T-shirt! Yeah! You dig.
 
-That's what I managed to write using the letters I cut out of the stencil:
+<!-- That's what I managed to write using the letters I cut out of the stencil:
 ![Stencil1]({{ site.baseurl }}\images\portugal\part2\9.jpg)
 ![Stencil2]({{ site.baseurl }}\images\portugal\part2\10.jpg)
 ![Stencil3]({{ site.baseurl }}\images\portugal\part2\11.jpg)
 ![Stencil4]({{ site.baseurl }}\images\portugal\part2\12.jpg)
 ![Stencil5]({{ site.baseurl }}\images\portugal\part2\13.jpg)
-
+ -->
 It turned out we paid for the tickets in advance and the price was our labor  we helped the workers to deconstruct the scene and the surrounding constructions. This turned out to be trickier than I thought initially and there was a wide choice of stuff to do. For example, removing a really long fence that covered side of the field, deconstructing iron walls surrounding the festival area, tear poles and sticks from the ground (that was an enjoyable activity). There were some surprises around as always  like the cold stream and a small bamboo forest nearby (I got to the other side, broke down a small bamboo tree in hopes of getting back, but it didn't work like in a house of flying daggers'). I discovered a couple of small bushes with beautiful violet flowers near the stream.
 ![RamboIsNearby]({{ site.baseurl }}\images\portugal\part2\14.jpg)
 
