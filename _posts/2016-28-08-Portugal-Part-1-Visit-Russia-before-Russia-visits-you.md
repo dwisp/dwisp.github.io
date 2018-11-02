@@ -6,7 +6,7 @@ categories: travel
 thumbnail:  map-marked-alt
 tags:
  - travel
- - Greece
+ - Portugal
  - volunteering
 ---
 # Portugal, part 1: visit Russia before Russia visits you
