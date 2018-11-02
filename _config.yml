@@ -1,24 +1,25 @@
 # Site settings
-title: "Dwisp's bloggy"
+title: "dwisp's bloggy"
 email: dwisp@protonmail.com
 description: ""
 baseurl: ""
 url: "dwisp.github.io"
-title_description: "I'm Ivan, a guy who's curios about everything! I graduated Phystech (MIPT) in 2017, getting my Master's in Applied Mathemathics and Physics as well as Bachelor's. My passions are figuring out how things work, generating ideas and traveling around the world."
+title_description: "Hello there! I'm Ivan, a guy who's curios about everything. I graduated MIPT (aka Phystech) in 2017, getting my Master's in Applied Mathemathics and Physics. My passions are figuring out how things work, generating ideas and traveling around the world."
 title_image: "images/misc/hardwired.jpeg"
 google_analytics: ""
 disqus_account: dwisp
 github_repository: https://github.com/dwisp
 addthis_id:
-post_limit: 8
+post_limit: 10
 
 # Social usernames/URLs
 twitter_username:
 github_username: dwisp
 gitlab_username: dwisp
 telegram_username: digitalwisp
-instagram_username: 
+instagram_username: digitalwisp
 reddit_username: 
+email_address: dwisp@protonmail.com
 linkedin_link:
 google_plus_link:
 stackoverflow_link:
