@@ -23,7 +23,6 @@ Well, our interchange should have been in Istanbul and some governmental structu
 
 However, our problems didn’t end here. For some reason we only managed to book our seats on a flight to Geneva, but not to Geneva-Porto. In Switzerland, after spending some time trying to solve a problem of not having seats, we were only able to claim our places at a help deck.
 ![GenevaAirport]({{ site.baseurl }}\images\portugal\part1\2.jpg)
-
 {:.image-caption}
 *Near Geneva airport*
 
@@ -32,6 +31,10 @@ When we finally arrived, Ines drove us to the school and I was finally able to b
 
 A few words about the camp itself and the city of v.n. de Famalicao where it was held. Famalicao is situated in the outskirts of Porto. It’s a small cozy city with a lot of cobblestone (I wonder how much effort that took), green zones and nice overall atmosphere.
 ![Cobblestone]({{ site.baseurl }}\images\portugal\part1\3.jpg)
+
+{:.image-caption}
+*That's a cool looking cobblestone!*
+
 
 Our camp was situated in one of the school buildings around with sleeping rooms in the classrooms on the second floor and a cantina and a guest room on the first. There was also a kitchen there – a huge one, industrial-scale – the one you need to feed an army of children. The school is very different from what I’ve used to – completely different layout, both building and the surroundings.
 ![Interior1]({{ site.baseurl }}\images\portugal\part1\4.jpg)
