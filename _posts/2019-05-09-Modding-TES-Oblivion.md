@@ -4,7 +4,7 @@ Hard to believe, but it has been almost nine (!) years since I started to mod Ob
 
 ## Discovering Oblivion
 
-It happened in the middle school. I was exploring a marketplace near my metro station looking for a new game to buy. Back then they were sold on CDs and DVDs: Internet connections were too slow or expensive to let you download an entire game. I wanted to buy a certain game, but it wasn't in stock. I chose another one based on what I read in Igromania magazine a time. The review described Oblivion as an RPG with unseen level of detail and a rich world. The screenshots bought me.
+It happened in the middle school. I was exploring a marketplace near my metro station looking for a new game to buy. Back then they were sold on CDs and DVDs: Internet connection was too slow or expensive to let you download an entire game. I wanted to buy a certain game, but it wasn't in stock. I chose another one based on what I read in Igromania magazine a time. The review described Oblivion as an RPG with unseen level of detail and a rich world. The screenshots bought me.
 
 A bit later I bought the collector's edition with the amazing print of the Cyrodiil map. It's tattered and has tape all over it, but hangs above my desk to this day. It's amazing to look at the place where you spent so much time adventuring.
 
@@ -16,7 +16,7 @@ Opening file in a text editor and editing strings by hand didn't work. Thanks to
 
 ### Why I prefer modded games
 
-Some people I know say that they prefer a game the way developers did it, but I completely disagree. The community is often more passionate than the studio workers doing their jobs to get paid.
+Some people I know say that they prefer a game the way developers did it, but I completely disagree. The community is often more passionate than studio workers doing their jobs to get paid.
 
 This is exactly the case with the Elder Scrolls series. On Nexus sites, Oblivion has around 29 thousand mods, while Skyrim has a whooping 60 thousand! Not all is worth looking into, but using some of those one can create almost anything out of his/her game world. It's the most configurable game I ever played.
 
@@ -50,7 +50,7 @@ The story told of an alchemist who discovered a formula to make any alchemical s
 
 ![woa_trader]({{ site.baseurl }}\images\modding-oblivion\woa_trader.jpg)
 
-Another part of the mod was a challenge to find the most powerful bombs scattered though the mystic Ayleid ruins. It extended the gameplay by adding value to looking around and searching thoroughly. Some containers are accessible only through clever tricks. One requires the player to step on a trap that would otherwise crush him against the ceiling. When lifted high enough, he has to jump off to reach the chest on a top of pillar.
+Another part of the mod was a challenge to find the most powerful bombs scattered through mystic Ayleid ruins. It extended the gameplay by adding value to looking around and searching thoroughly. Some containers are accessible only through clever tricks. One requires the player to step on a trap that would otherwise crush him against the ceiling. When lifted high enough, he has to jump off to reach the chest on a top of pillar.
 #### Thieves' highway Anvil
 
 The next one I've created was an extension to already existing mod Thieves' Highway. It placed ladders, ropes and hatches across the roofs of the Empire's capital. These allow a sneaky character to traverse the city undetected.
