@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      Modding TES Oblivion
+author:     Ivan Petrov
+categories: gaming
+thumbnail:  gamepad
+tags:
+ - personal
+ - gaming
+---
 # How I got involved in TES modding
 
 Hard to believe, but it has been almost nine (!) years since I started to mod Oblivion in 2010. Even today I still have a working Oblivion game on my PC: since 2007! That's a very long time of playing a single game.
