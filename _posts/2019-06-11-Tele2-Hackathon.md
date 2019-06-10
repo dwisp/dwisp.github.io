@@ -73,11 +73,12 @@ Computer vision techniques could in fact be applied if one decided to process sa
 
 The data were split into training and validation sets by hand rather than randomly.
 
-Areas inside the cities are densely covered by a ton of overlapping base stations. If the data were divided randomly, a lot of validation polygons would intersect or even lie inside training ones. That's how it looks:
+Areas inside the cities are densely covered by a ton of overlapping base stations. If the data were divided randomly, a lot of validation polygons would intersect or even lie inside training ones.
+
+That's why validation set consisted of remote region having little in common with densely populated urban areas mainly present in the training set.
+This decision increased validation difficulty and a risk of overfitting. That's how train and test sets look:
 
 ![train_vs_test]({{ site.baseurl }}\images\tele2hack\train_vs_test.png)
-
-That's why validation set consisted of remote region having little in common with densely populated urban areas mainly present in the training set. This decision increased validation difficulty and a risk of overfitting.
 
 ### Building features
 
@@ -122,7 +123,7 @@ All in all, we made **110 features**.
 
 We picked tree-based models such as `catboost`, `lightgbm` and `random forest` since they are insensitive to the absolute values and allow to mix features of various types. It doesn't matter in which units do we measure the distance and allows us to mix features of different meaning like distances, counters and categories at the same time. As a bonus, they provide feature importance functionality.
 
-Our best solution was `sklearn`'s Random Forest. Our best solution was heavily regularized, i.e. prevented from becoming overly complex. Tree depth, #of leaf nodes and minimal #of samples in a leaf were purposefully limited. This makes a lot of sense, since:
+Our best solution was `sklearn`'s Random Forest. It is heavily regularized, i.e. prevented from becoming overly complex. Tree depth, #of leaf nodes and minimal #of samples in a leaf were purposefully limited. This makes a lot of sense, since:
 
 * big cities in the training set aren't relevant to remote regions included in the test set
 * `lightgbm`-based solution overfits after just 9 iterations
