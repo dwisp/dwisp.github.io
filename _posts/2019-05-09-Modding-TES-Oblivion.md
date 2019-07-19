@@ -42,30 +42,31 @@ In my opinion, the only good things vanilla Oblivion has is a variety of regions
 
 #### Fort Farragut
 
-Like most players, I enjoyed the Dark Brotherhood questline. So the first mod published back in 2010 is called Farragut Renewed. It transformed the secret lair of assassin Lucien Lachance. Now the player could use it as a long-term base of operations. I loved adding little details all over the place, like an alchemical garden with poisonous mushrooms, target dummies and assassin mannequins. It gave the place more individuality.
+Like most players, I enjoyed the Dark Brotherhood questline. So the first mod published back in 2010 is called [Farragut Renewed](https://www.nexusmods.com/oblivion/mods/27364). It transformed the secret lair of assassin Lucien Lachance. Now the player could use it as a long-term base of operations. I loved adding little details all over the place, like an alchemical garden with poisonous mushrooms, target dummies and assassin mannequins. It gave the place more individuality.
 
 ![ff_garden]({{ site.baseurl }}\images\modding-oblivion\ff_garden.jpg)
 
 #### Scarier wraiths
 
-Later I learned basics of editing 3d-models used by the game engine. This gave me an idea to remove a face of the in-game wraith so it would look like an evil Nazgul from LOTR. Surprisingly, it's the most endorsed of the mods, despite it literally took 10 seconds to remove that face.
+Later I learned basics of editing 3d-models used by the game engine. This gave me an idea to remove a face of the in-game wraith so it would look like an evil Nazgul from LOTR. Surprisingly, it's the [most endorsed of the mods](https://www.nexusmods.com/oblivion/mods/28666), despite it literally took 10 seconds to remove that face.
 
 ![wwf_pirate]({{ site.baseurl }}\images\modding-oblivion\wwf_pirate.jpg)
 
 #### Alchemical bombs
 
-Two years later me and scripter named Visman made a mod with an actual throwable bombs. He did the coding, even involving an invisible rat guiding the explosions. I created locations, looked for sounds and textures, and did a lore set-up. Bombs themselves aren't part of Elder Scrolls lore, and some care about consistency of the game world.
+Two years later me and scripter named Visman made [a mod with actual throwable bombs](https://www.nexusmods.com/oblivion/mods/31509). He did the coding, even involving an invisible rat guiding the explosions. I created locations, looked for sounds and textures, and did a lore set-up. Bombs themselves aren't part of Elder Scrolls lore, and some care about consistency of the game world.
 
 The story told of an alchemist who discovered a formula to make any alchemical substance explosive. He set up a laboratory in a dungeon and blew up the old tunnels to stop the undead from coming his way. The guy was also supplying Dark Brotherhood with his creations. I loved designing the secret lair and putting tons of details and hints there. He had a diary describing why exactly the formula works and a guardian wraith floating around the room.
 
 ![woa_trader]({{ site.baseurl }}\images\modding-oblivion\woa_trader.jpg)
 
-Another part of the mod was a challenge to find the most powerful bombs scattered through mystic Ayleid ruins. It extended the gameplay by adding value to looking around and searching thoroughly. Some containers are accessible only through clever tricks. One requires the player to step on a trap that would otherwise crush him against the ceiling. When lifted high enough, he has to jump off to reach the chest on a top of pillar.
+Another part of the mod was a challenge to find the most powerful bombs scattered through mystic Ayleid ruins. It extended the gameplay by adding value to looking around and searching thoroughly. Some containers are accessible only through clever tricks. One requires the player to step on a trap that would otherwise crush him against the ceiling. When lifted high enough, he has to jump off to reach the chest on a top of a pillar.
+
 #### Thieves' highway Anvil
 
-The next one I've created was an extension to already existing mod Thieves' Highway. It placed ladders, ropes and hatches across the roofs of the Empire's capital. These allow a sneaky character to traverse the city undetected.
+The [next one](https://www.nexusmods.com/oblivion/mods/38994) I created was an extension to already existing mod Thieves' Highway. It placed ladders, ropes and hatches across the roofs of the Empire's capital. These allow a sneaky character to traverse the city undetected.
 
-I picked the port city of Anvil and placed a bunch of crates, ladders and barrels to help reach the roofs. Some houses now had climbable brickworks. I took a stone block model and removed collision from it, so it wouldn't be affected by physics. Then I placed a lot of these these on the chimneys to indicate interactivity. It was fun as I tried to flawlessly fit these into the texture pattern. However, they were practically unusable in this state. Invisible doors at a base and top of the chimneys is what moved the player around.
+I picked the port city of Anvil and placed a bunch of crates, ladders and barrels to help reach the roofs. Some houses now had climbable brickworks. I took a stone block model and removed collision from it, so it wouldn't be affected by physics. Then I placed a lot of these these on the chimneys to indicate interactivity. It was fun as I tried to flawlessly fit these into texture pattern. However, they were practically unusable in this state. Invisible doors at a base and top of the chimneys is what actually moved the player around.
 
 ![tha_brickworks]({{ site.baseurl }}\images\modding-oblivion\tha_brickworks.jpg)
 
@@ -81,7 +82,7 @@ It had its own story of a underground city with a king overtaken by the necro-ma
 
 The first level, which I almost finished, is almost fully underwater. The player had to act really fast or pack a lot of water breathing potions. The passages are tilted, so navigation is harder than usual. The traps and slaughterfish swimming about were other things to overcome.
 
-The tunnels overgrown with vines, crystals and tropical plants lead into a creepy place with giant bones decorating the walls and flesh growing in the lightless rooms. There were ideas for physics-based puzzles and a boss which could only be defeated by first finding a special scroll which makes him vulnerable. But the whole project required too much patience from me, so I dropped it. Maybe someday I'll finish it. People spend their time on things that make less sense.
+The tunnels overgrown with vines, crystals and tropical plants lead into a creepy place with giant bones decorating the walls and flesh growing in the lightless rooms. There were ideas for physics-based puzzles and a boss which could only be defeated by first finding a special scroll which makes him vulnerable. But the whole project required too much patience from me, so I dropped it. Maybe someday I'll finish it. People spend their time on things that make even less sense.
 
 ## Translating stuff is fun
 
@@ -103,11 +104,11 @@ Particular items inside the mod are connected, and you have to name them all in 
 
 You create style and feeling of the translation by using certain words over the others. I personally enjoy the old fan-made translations from the 90s, as they had a lot of personality. They weren't professional, but lack of studio correctness is what made them spicy and memorable.
 
-I took a liberty of such indirect translations myself. For example, in Maskar's Oblivion Overhaul the NPC had name and surname constructed out of two pieces each. The names weren't fitting into the lore: Argonians (the reptilian people) had Greek names as a basis. I changed those back closer to the lore and replaced all the surnames with racially-themed nicknames.
+I took a liberty of such indirect translations myself. For example, in Maskar's Oblivion Overhaul the NPC had name and surname constructed out of two pieces each. The names weren't fitting into the lore: Argonians, the reptilian people, had Greek names as a basis. I changed those back closer to the lore and replaced all the surnames with racially-themed nicknames.
 
 ### Tech skills come in handy
 
-There's some technical aspects to it, as well. Many strings used in-game are defined into the scripts themselves. Quite hard to find, too. The translated scripts have to be recompiled. Some of the grammar has to be adapted to not wound awkward in Russian, which means changing string formatting by hand.
+There's some technical aspects to it, as well. Many strings used in-game are defined inside the scripts. Quite hard to find, too. The translated scripts have to be recompiled. Some of the grammar has to be adapted to not sound awkward in Russian, which means changing string formatting by hand.
 
 What makes it a lot worse is that whether there's a mod update, I have a fresh English version. The object names and book texts can be imported automatically. But all the proper scripts have to be modified by hand. And which of those did I change and how, exactly?
 
@@ -116,6 +117,6 @@ That's where diff tools come to the rescue. They allow me to see what scripts we
 Strings defined in the scripts can be found using a regular expression matching text inside the double quotes.
 
 ### Useful for your English
-Translating mods in the high school is why I went straight into an advanced English class in the university. Practicing a skill gives it a big boost, especially if done regularly. We had our site updated with translations every two months or so.
+Translating mods in the high school is why I went straight to an advanced English class in the university. Practicing a skill gives it a big boost, especially if done regularly. We had our site updated with translations every two months or so.
 
 This is why I'm able to write these big posts without much effort. It's sill hard to generate natural and rich text that feels completely OK to native speakers, but I'm working on it.
