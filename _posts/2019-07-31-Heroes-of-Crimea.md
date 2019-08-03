@@ -299,10 +299,12 @@ Greater distances can be covered when you're mounted, but it feels less like you
 
 * Spontaneous trips anywhere are always good with the right company. Thank you so much, guys! I have no doubt we can survive a zombie apocalypse together. Looking forward for another 8-men trip out of the blue
 
-Also, my frinds made some funny videos, check these out:
+My friend Danya made some funny videos of our trip, check them out:
 
+ <center>
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 {% include youtubePlayer.html id=page.youtubeId3 %}
+ </center>
