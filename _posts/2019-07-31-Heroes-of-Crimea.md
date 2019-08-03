@@ -8,6 +8,10 @@ tags:
  - travel
  - Russia
  - phystech_mafia
+
+youtubeId1: Vs9wWE4fkbE
+youtubeId2: r5Hj06rXH9U
+youtubeId3: 3NeRFnSxipI
 ---
 
 ## The backstory
@@ -32,8 +36,6 @@ Can you connect it with the story below?
 We arrived pretty late at night and it took quite some time to settle the car rentals. There were two cars:  a KIA Rio and a Mercedes Cabriolet, in which I traveled most of the time. The first challenge was to sync and not to get lost. This problem was solved with two walkie-talkies. Talk about 80s vibes :)
 
 The nights in Crimea are pitch black, and finding a good spot for camping wasn't as trivial as we expected. Where we sought clearing in the woods near roadways, we found urbanized area instead. It took some effort to find a fitting place.
-
-![loading_cars]({{ site.baseurl }}\images\crimea-heroes\loading_cars.jpg)
 
 Before we set up a camp and went to sleep, I heard(?) what sounded like creepy little bells ringing as in a horror movie. Not sure what that really was.
 
@@ -296,3 +298,11 @@ Greater distances can be covered when you're mounted, but it feels less like you
 * Bring juicy Country or Rock tracks if you're going somewhere hot. Bring Synthwave if you have a cabriolet to ride along the coastline. Because of it, now there are tracks that reminds me and my cabrio mates of this adventure.
 
 * Spontaneous trips anywhere are always good with the right company. Thank you so much, guys! I have no doubt we can survive a zombie apocalypse together. Looking forward for another 8-men trip out of the blue
+
+Also, my frinds made some funny videos, check these out:
+
+{% include youtubePlayer.html id=page.youtubeId1 %}
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
+{% include youtubePlayer.html id=page.youtubeId3 %}
