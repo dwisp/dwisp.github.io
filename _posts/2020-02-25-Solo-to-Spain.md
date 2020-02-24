@@ -155,7 +155,7 @@ Really fucking hard.
 
 **The pros:**
 
-you are [right here, right now], and everything depends on it.
+you are [right here, right now](https://www.youtube.com/watch?v=VqoyKzgkqR4), and everything depends on it.
 It's probably harder to focus and be as efficient doing the same in your cozy flat.
 
 **The cons:**
@@ -235,8 +235,7 @@ He used to beat the crap out of himself because the body is filthy"
 At this point I had enough of sado-mazo christian aesthetics
 
 The smaller exhibition was more fun.
-Its main theme was a revolution in teaching people how to draw:
-pic
+Its main theme was a revolution in teaching people how to draw.
 
 * Previously, an aspiring painter had to find a master and participate in drawing sessions, which always included a person or an object being drawn
 * With the help of printing technology, painters could translate their tutorials into metal tablets
@@ -303,11 +302,11 @@ Sad.
 
 ![Intersection1]({{ site.baseurl }}\images\solo-to-spain\DSC_0350.jpg) 
 
-![Intersection2]({{ site.baseurl }}\images\solo-to-spain\DSC_0351.jpg) 
+![Intersection2]({{ site.baseurl }}\images\solo-to-spain\DSC_0352.jpg) 
 
 Look at how pokhoroshel Madrid with Sergey Semyonovich in power:
 
-![Construyendo]({{ site.baseurl }}\images\solo-to-spain\DSC_0351.jpg) 
+![Construyendo]({{ site.baseurl }}\images\solo-to-spain\DSC_0355.jpg) 
 
 ![ParkEntrance]({{ site.baseurl }}\images\solo-to-spain\DSC_0356.jpg) 
 
