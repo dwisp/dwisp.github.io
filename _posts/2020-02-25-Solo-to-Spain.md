@@ -13,7 +13,7 @@ tags:
 # My first solo trip
 
 How it generally felt:
-![byelingual]
+![byelingual]({{ site.baseurl }}\images\solo-to-spain\byelingual.jpg)
 
 ## Intro
 
@@ -103,14 +103,25 @@ Buenos Dias, motherfucker!
 
 Madrid has a pretty decent metro, it is dividen into several zones, and you mostly need zone A to explore the center. 
 The subsway is pretty fast and there are mechanical handles on the train doors, which mostly make no sense, because every door in the train gets open anyway.
+
+![Subway1]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+
+![Subway2]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+
+
 Fortunately, the airport is situated in zone A and you can purchace an unlimited ticket for the duration of your stay.
 This ticket turned out to be an overkill, 'cause I DIG WALKING.
 It's pretty easy to get even to Casa de Campo from the central street.
 
 My first host was a Venezuelan woman in her 50s.
-As you can observe on the pics here, she's a big fan of Jesus.
+She's a big fan of Jesus and also has this cool Jamon Leg Holder.
+
+![JamonHolder]({{ site.baseurl }}\images\solo-to-spain\DSC_0423.jpg) 
 
 The flat had two huge dogs who barked almost non-stop.
+
+![Doggos]({{ site.baseurl }}\images\solo-to-spain\DSC_0425.jpg) 
+
 It's a tiny place situated in the old building, and it's a good balance between price, closeness to historical center and condition - which could be better. 
 
 "My language practice starts now", - I thought, and was talking non-stop for the next 30 minutes.
@@ -121,6 +132,14 @@ There goes my idea to have "a whole day" in Madrid.
 
 After waking up, I craved a bite of tasty Spanish cuisine.
 Thus I circled around central streets, taking note of what is open, but nothing really got to my heart.
+
+![Mcdonalds]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+
+![MadridStreets1]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+
+![MadridStreets2]({{ site.baseurl }}\images\solo-to-spain\DSC_0197_2.jpg)
+
+![MadridStreets3]({{ site.baseurl }}\images\solo-to-spain\DSC_0203_2.jpg)
 
 Long story short, ended up having a worst burger in my life in a random bar nearby.
 Pre-Christmas hours were even shorter than usual, which is still more restrictive than in Moscow.
@@ -145,20 +164,57 @@ It's probably harder to focus and be as efficient doing the same in your cozy fl
 you're wasting your precious travel-time staring at the screen.
 If you're me and wake up at random times, this can reduce your up-time.
 
+![Market1]({{ site.baseurl }}\images\solo-to-spain\DSC_0184_2.jpg)
+
+![Market2]({{ site.baseurl }}\images\solo-to-spain\DSC_0185_2.jpg)
+
+![Market3]({{ site.baseurl }}\images\solo-to-spain\DSC_0187_2.jpg) 
+
+![Market4]({{ site.baseurl }}\images\solo-to-spain\DSC_0188_2.jpg) 
+
+![Market5]({{ site.baseurl }}\images\solo-to-spain\DSC_0189_1.jpg) 
+
 While the sun was still up, I went to Royal Botanical Garden. looking a bit underplanted (like understaffed, but underplanted, do you get it hahah?).
+
+![NearBotanicalGarden]({{ site.baseurl }}\images\solo-to-spain\DSC_0210_2.jpg) 
+
+![Nectar]({{ site.baseurl }}\images\solo-to-spain\DSC_0212_2.jpg) 
+
+![Cabbages]({{ site.baseurl }}\images\solo-to-spain\DSC_0219_2.jpg) 
+
+![Pumpkins]({{ site.baseurl }}\images\solo-to-spain\DSC_0222_2.jpg) 
+
+![WoodenStuff]({{ site.baseurl }}\images\solo-to-spain\DSC_0223_2.jpg) 
+
+![Stairs]({{ site.baseurl }}\images\solo-to-spain\DSC_0231_2.jpg) 
 
 After rofling about pumpkins and cabbages I discovered there's a terrace housing several dozens of bonsai.
 Check out this shit:
 
+![Bonsai1]({{ site.baseurl }}\images\solo-to-spain\DSC_0238_1.jpg) 
+
+![Bonsai2]({{ site.baseurl }}\images\solo-to-spain\DSC_0239_1.jpg) 
+
+![Bonsai3]({{ site.baseurl }}\images\solo-to-spain\DSC_0252_1.jpg) 
+
+![Bonsai4]({{ site.baseurl }}\images\solo-to-spain\DSC_0260_2.jpg) 
+
+![Bonsai5]({{ site.baseurl }}\images\solo-to-spain\DSC_0261_2.jpg) 
+
 There's even miniature cliffs and a pomegranate tree:
-pic
+
+![Bonsai6]({{ site.baseurl }}\images\solo-to-spain\DSC_0262_2.jpg) 
 
 Puzzling, but a sign explains the origins:
-pic
+
+![Bonsai7]({{ site.baseurl }}\images\solo-to-spain\DSC_0267_2.jpg) 
+
+![KingOfSpain]({{ site.baseurl }}\images\solo-to-spain\DSC_0282_2.jpg) 
 
 Afterwards, the museum time.
 This endless queue is for free entry after 17:
-pic
+
+![Queue1]({{ site.baseurl }}\images\solo-to-spain\DSC_0286_1.jpg) 
 
 These are the impressions after visiting the main exhibition:
 
@@ -195,10 +251,14 @@ I tried, but my Sneak skill wasn't high enough.
 
 Next on the list is a cocktail bar in LGBT-themed district, one of the best in Madrid.
 The whole subway station is decorated with pride flag.
+
+![Chueca]({{ site.baseurl }}\images\solo-to-spain\DSC_0332.jpg) 
+
 Just as you ascend the stairs, there are several thematic establishments in view.
 
 There is also this swaggy sock shop, keep in mind when visiting Madrid:
-pic
+
+![Chueca]({{ site.baseurl }}\images\solo-to-spain\DSC_0335.jpg) 
 
 Sitting alone in bars & restaurants can be a bit sad, but not in Ente Santes.
 These guys casually show off every five seconds:
@@ -211,10 +271,16 @@ One can become used to the craziest nonsense really easy.
 Afterwards ordered this chicken with shit ton of ingredients, including caramelized bananas and various kinds of tropical ingredients.
 Hope I can replicate something like this at home.
 
+![EntreSantos1]({{ site.baseurl }}\images\solo-to-spain\DSC_0338.jpg) 
+
+![EntreSantos2]({{ site.baseurl }}\images\solo-to-spain\DSC_0339.jpg) 
+
 District was named after a president, the bartender said, but had no idea why this suddenly was the gayest district in Madrid.
 Taught a him to say "Приятного аппетита".
 The Spanish have a funny way of always placing "e" if the first sound is consonant.
 Think about "school" and "escuela".
+
+![EntreSantos3]({{ site.baseurl }}\images\solo-to-spain\DSC_0340.jpg) 
 
 Not a big cocktail expert, but had a blast with both spicy and sweet ones.
 50E well spent.
@@ -230,6 +296,22 @@ Suddenly had a lot less struggle with finding a good restaurant.
 Although there were some top ones that already had full booking for several days ahead.
 Sad.
 
+![MemedBreakfast]({{ site.baseurl }}\images\solo-to-spain\DSC_0345.jpg) 
+
+![SomeRedDoor]({{ site.baseurl }}\images\solo-to-spain\DSC_0347.jpg) 
+
+![Caja]({{ site.baseurl }}\images\solo-to-spain\DSC_0349.jpg) 
+
+![Intersection1]({{ site.baseurl }}\images\solo-to-spain\DSC_0350.jpg) 
+
+![Intersection2]({{ site.baseurl }}\images\solo-to-spain\DSC_0351.jpg) 
+
+Look at how pokhoroshel Madrid with Sergey Semyonovich in power:
+
+![Construyendo]({{ site.baseurl }}\images\solo-to-spain\DSC_0351.jpg) 
+
+![ParkEntrance]({{ site.baseurl }}\images\solo-to-spain\DSC_0356.jpg) 
+
 Madrid has two big parks: Retiro and Casa de Campo, the latter being significantly bigger. 
 Retiro is closer to the museums if you want to mix activities.
 There was a cool exhibition by Sara Ramo, the main idea of which was to put everyday spaces and items out of context.
@@ -237,19 +319,32 @@ This ought to show how we are used to a certain way things work.
 Bigger park won over, though.
 It was time to use my slightly rusty bicycling skills.
 
+![RetiroParkEntrance]({{ site.baseurl }}\images\solo-to-spain\DSC_0369.jpg) 
+
 Before heading into the park, spent time riding along the river.
 It's surprisingly dirty and shallow.
 Deeper into the park, trees start to turn green again, grass and flowers appear.
 No cars inside whatsoever, so it feels very safe to ride.
 
+![Tower]({{ site.baseurl }}\images\solo-to-spain\DSC_0379.jpg) 
+
 Had nostalgic feelings about exploring my village on bicycle years ago.
 More engaging to follow smaller dirt-roads than big ones.
+
+![DeeperIntoThePark]({{ site.baseurl }}\images\solo-to-spain\DSC_0387.jpg) 
+
 There's a zoo in the middle of the park, but the roads were closed so no luck getting there.
 The park has several levels of elevations and you can have a nice view from up here.
+
+![TreesAndBench]({{ site.baseurl }}\images\solo-to-spain\DSC_0396.jpg) 
 
 The air is distinctly different than in the city, although Madrid is smaller and less polluted than Moscow, I'd assume.
 
 Had a glimpse of a rabbit, but wasn't able to get a good shot.
+
+![NightMadrid1]({{ site.baseurl }}\images\solo-to-spain\DSC_0414.jpg) 
+
+![NightMadrid2]({{ site.baseurl }}\images\solo-to-spain\DSC_0419.jpg) 
 
 ## Day 4: Christmas & Zaragoza
 
@@ -260,11 +355,15 @@ Two trains departed at the same time, but the right one had a number also printe
 Didn't have a slightest idea how to get from a train station in Zgz to the new stay.
 There were bus stations near the center, but many of them didn't have any name in MAPS.me.
 
+![ViewFromATrain]({{ site.baseurl }}\images\solo-to-spain\DSC_0429.jpg) 
+
 Wrote all the stuff up to this line while sitting in the train to Zgz.
 Spagetti-western-ish landscapes and rural buidings outside the window.
 Palette consists mainly of orange-yellows, positivity-inducing, compared to the suicidal grey of Moscow winter.
 
 Man, these Renfe express trains are bonkers, they go so fast your ears behave like it's an airplane.
+
+![ZgzTrainStation]({{ site.baseurl }}\images\solo-to-spain\DSC_0432.jpg) 
 
 Upon arrival, found a proper bus (thanks Patricia!).
 When you try to speak or hear Spanish in a noisy environment, you fail.
@@ -274,31 +373,81 @@ Thanks to GPS-not-working curse (all my phones have it) lifting suddenly , I cou
 Picked a bus stop somewhat close to the center.
 
 The flat owners, a Spanish man and his Brazilian wife spoke very clear Spanish.
+
+![ZgzStay]({{ site.baseurl }}\images\solo-to-spain\DSC_0473.jpg) 
+
 I was really amused and breathed a sigh of relief, as that Venezuelan accent was damaging my brain.
+
+![YayFriends]({{ site.baseurl }}\images\solo-to-spain\DSC_0434.jpg) 
 
 After I met up with Patricia, all bars and restaurants decided to simultaneously close thanks to Christmas.
 Had to head to McDonalds again, so much for Spanish cuisine.
 
+![CrowdedZgz]({{ site.baseurl }}\images\solo-to-spain\DSC_0435.jpg) 
+
 Patricia showed everything there is: a cool central market building, remnants of a roman wall, the Basilica, of course, a medieval church-part-mosque, and the famous donkey statue.
+
+![RomanWall]({{ site.baseurl }}\images\solo-to-spain\DSC_0458.jpg) 
+
+![DonkeyStatue]({{ site.baseurl }}\images\solo-to-spain\DSC_0439.jpg) 
+
+![ViewFromTheBridge]({{ site.baseurl }}\images\solo-to-spain\DSC_0441.jpg) 
+
+Here's some Christmas Market shots as well:
+
+![ZgzChristmas1]({{ site.baseurl }}\images\solo-to-spain\DSC_0445.jpg) 
+
+![ZgzChristmas2]({{ site.baseurl }}\images\solo-to-spain\DSC_0446.jpg) 
+
+![ZgzChristmas3]({{ site.baseurl }}\images\solo-to-spain\DSC_0447.jpg) 
+
+![ZgzChristmas4]({{ site.baseurl }}\images\solo-to-spain\DSC_0451.jpg) 
+
+![ZgzChristmas5]({{ site.baseurl }}\images\solo-to-spain\DSC_0452.jpg) 
+
+![ZgzChristmas6]({{ site.baseurl }}\images\solo-to-spain\DSC_0453.jpg) 
 
 Zaragoza is small, so pretty easy to explore everything there is on foot.
 My overall impression is that outside of the center you have bland mnogoetazhki, albeit with a brighter mood than their Russian counterparts.
 Historical center is very small, and if you don't spend time at the museums, you can see everything in an hour or two.
 
+![ZgzAtNight]({{ site.baseurl }}\images\solo-to-spain\DSC_0470.jpg) 
+
 ## Nothing-special-happened-day (you can skip)
+
+![DefeatedFascism]({{ site.baseurl }}\images\solo-to-spain\DSC_0476.jpg) 
+
+![DefeatedFascism]({{ site.baseurl }}\images\solo-to-spain\DSC_0477.jpg) 
 
 Ascended one of Basilica's towers and got myself a ribbon with what looks like Catalan flag but really is Aragon's flag.
 No, it doesn't mean I'm a Catalan separatist, it's because in Medieval times Catalunya was under Aragon.
 
+![OnTopOfTheBasilica1]({{ site.baseurl }}\images\solo-to-spain\DSC_0482.jpg) 
+
+![OnTopOfTheBasilica1]({{ site.baseurl }}\images\solo-to-spain\DSC_0483.jpg) 
+
 Catholic interior proved to be unusual, as I mostly saw Catholic churches in movies.
+
+![InsideTheBasilica]({{ site.baseurl }}\images\solo-to-spain\DSC_0479.jpg) 
+
 Confession booths, pews, latin singing and the gothicness is impressive, especially considering how many domes this cathedral has.
 
 Parted ways with Pat and went to explore nearby parks.
+
+![CastleInThePark1]({{ site.baseurl }}\images\solo-to-spain\DSC_0498.jpg) 
+
+![CastleInThePark2]({{ site.baseurl }}\images\solo-to-spain\DSC_0499.jpg) 
+
+![CastleInThePark3]({{ site.baseurl }}\images\solo-to-spain\DSC_0505.jpg) 
 
 Love for walking + not knowing local bus routes & timetables = let's just walk to a train station across the city.
 It took 40 minutes.
 
 This train had a speedometer panel peaking at 250 km/h!
+
+Look at how pokhoroshela Barcelona with Sergey Semyonovich in power:
+
+![ArrivedToBarcelona]({{ site.baseurl }}\images\solo-to-spain\DSC_0525.jpg) 
 
 My AirBnB in Barcelona was a huge 6-room apartment, which I have chosen in hopes to spend Christmas with other travelers and socialize.
 Had hopes of teaming up with someone and going for exploration together.
@@ -321,6 +470,8 @@ The buildings are different, sure, but those details are subtle to the eye of a 
 When you get to a part with non-orthogonal components, like diagonal street or dense area near the port, it feels better.
 
 ## First day in Barcelona
+
+![BarcelonaBuilding]({{ site.baseurl }}\images\solo-to-spain\DSC_0605.jpg) 
 
 As per usual, I don't give a fuck about getting up early and woke up at 11.
 Not much thought was put into today's programme - possibly because Gaudi rocks.
@@ -353,12 +504,17 @@ Managed to consume everything else, though, so kinda got the achievent there.
 
 Some might say Sagrada Familia is for tourists or is overrated or something, but I personally found it to be fucking nuts.
 Just look at that thing!
+
+![SagradaFamilia1]({{ site.baseurl }}\images\solo-to-spain\DSC_0544.jpg) 
+
+![SagradaFamilia2]({{ site.baseurl }}\images\solo-to-spain\DSC_0545.jpg) 
+
 This huge stone building is melting like an ice cream, and it has tons of details and writings on the outer walls.
 
 I wonder if non-finishedness is going to turn into a feature.
 The basilica is a mix of very different shapes and styles to the point it have seemed absurd if it wasn't for Gaudi's genius.
 
-Look at it: flowers, spires, Jesus, ice-cream shapes, inscriptions, two sets of different spires and side-buildings that look out of style!
+Flowers, spires, Jesus, ice-cream shapes, inscriptions, two sets of different spires and side-buildings that look out of style!
 
 Funny that the main part and the newer part differ in color just due to time.
 Some newer parts have rebars sticking out of them.
@@ -366,11 +522,21 @@ Some newer parts have rebars sticking out of them.
 I dig the organicness and walked around Barcelona to see other Gaudi's Casas.
 Wonder how much a flat in one of those cost.
 
+![Gaudi1]({{ site.baseurl }}\images\solo-to-spain\DSC_0608.jpg) 
+
+![Gaudi2]({{ site.baseurl }}\images\solo-to-spain\DSC_0615.jpg) 
+
 ### CosmoCaija
 
 This museum is your total bro if you respect science (and if you don't, you're not my bro).
 
+![CosmoCaija1]({{ site.baseurl }}\images\solo-to-spain\DSC_0569.jpg) 
+
 The main idea is what science is all about: try it our yourself, experiment, make sense of it, show proof, explain in a clear manner (though this one is debatable).
+
+![CosmoCaija2]({{ site.baseurl }}\images\solo-to-spain\DSC_0573.jpg) 
+
+![CosmoCaija3]({{ site.baseurl }}\images\solo-to-spain\DSC_0574.jpg) 
 
 For example, you can:
 
@@ -382,13 +548,30 @@ This is arguably illustrative, as most important applications don't invole looki
 * Illustrating how acncient oceanic creatures adapted to land using a row of fish tanks with cute and odd creatures inside
 * Displaying huge slices of geological materials and show how they can be bent and molded with cotton-wool
 
+![CosmoCaija3]({{ site.baseurl }}\images\solo-to-spain\DSC_0580.jpg) 
+
+![CosmoCaija4]({{ site.baseurl }}\images\solo-to-spain\DSC_0581.jpg) 
+
+![CosmoCaija5]({{ site.baseurl }}\images\solo-s--s\ain_0583.jpg) 
+
+![CosmoCaija6]({{ site.baseurl }}\images\solo-to-spain\DSC_0586.jpg) 
+
 Follow the white glowing rabbit at Plaza Catalunya:
-pic
+
+![CosmoCaija6]({{ site.baseurl }}\images\solo-to-spain\DSC_0596.jpg) 
 
 Bought lego figurines as presents on Christmas market.
+
+![BarcelonaChristmasMarket1]({{ site.baseurl }}\images\solo-to-spain\DSC_0604.jpg) 
+
+![BarcelonaChristmasMarket2]({{ site.baseurl }}\images\solo-to-spain\DSC_0606.jpg) 
+
 From my childhood I remember Lego sets being hella expensive.
 Checked if they're affordable now that I earn enough.
 Nah, still very expensive shit.
+
+Ихихихихи:
+![BarcelonaAtNight1]({{ site.baseurl }}\images\solo-to-spain\DSC_0600.jpg) 
 
 ## Second day in Barcelona
 
@@ -397,7 +580,20 @@ Why not a Cannabis museum, then?
 
 An entrance + thematic popsice cost 10E in total.
 I definitely recommend, just look at this:
-pics
+
+![MarijuanaMuseum1]({{ site.baseurl }}\images\solo-to-spain\DSC_0654.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0657.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0661.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0667.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0671.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0675.jpg) 
+
+![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0678.jpg) 
 
 In my opinion, it's awesome how many completely different things from various epochs and origins are connected by weed.
 Doctor's tools, propaganda posters, ceremonial tribal pipes, paintings depicting role of marijuana in medieval ages.
@@ -405,6 +601,18 @@ Doctor's tools, propaganda posters, ceremonial tribal pipes, paintings depicting
 Ironically, in a few days stumbled upon a post discussing what's bad about weed and is not usually discussed.
 
 Here, near Barceloneta, is a small yard that isn't a part of a grid layout.
+
+![NearDocks1]({{ site.baseurl }}\images\solo-to-spain\DSC_0634.jpg) 
+
+![NearDocks2]({{ site.baseurl }}\images\solo-to-spain\DSC_0639.jpg) 
+
+![NearDocks3]({{ site.baseurl }}\images\solo-to-spain\DSC_0642.jpg) 
+
+![NearDocks4]({{ site.baseurl }}\images\solo-to-spain\DSC_0644.jpg) 
+
+![NearDocks5]({{ site.baseurl }}\images\solo-to-spain\DSC_0647.jpg) 
+
+![NearDocks6]({{ site.baseurl }}\images\solo-to-spain\DSC_0650.jpg) 
 
 ### International communication
 
@@ -423,7 +631,6 @@ Felice asked if nations far from Moscow identify themselves as an entity separat
 Another interesting question was if Russia perceives itself as European or an Asian country.
 
 I told them about the language and a struggle between the easterners / westerners movements, war in Checnya and some other stuff they had no idea about.
-
 
 We ended up talking for far longer than I have planned, and it was almost midnight, and didn't have supper yet.
 Hopeful that bars are open, I went to Carrer de Blai, a bar street that Patricia recommended.
