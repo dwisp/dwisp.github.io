@@ -260,7 +260,8 @@ There is also this swaggy sock shop, keep in mind when visiting Madrid:
 
 Sitting alone in bars & restaurants can be a bit sad, but not in Ente Santes.
 These guys casually show off every five seconds:
-pic
+
+![EntreSantos1]({{ site.baseurl }}\images\solo-to-spain\DSC_0338.jpg) 
 
 Here I was, ready to waste my hard-earned money on cocktails and jamon.
 Tried to explain import restrictions in Russia to a bartender, but failed, and also suddenly realized how stupid-ass the idea is.
@@ -268,8 +269,6 @@ One can become used to the craziest nonsense really easy.
 
 Afterwards ordered this chicken with shit ton of ingredients, including caramelized bananas and various kinds of tropical ingredients.
 Hope I can replicate something like this at home.
-
-![EntreSantos1]({{ site.baseurl }}\images\solo-to-spain\DSC_0338.jpg) 
 
 ![EntreSantos2]({{ site.baseurl }}\images\solo-to-spain\DSC_0339.jpg) 
 
