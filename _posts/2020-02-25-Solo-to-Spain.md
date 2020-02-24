@@ -143,7 +143,7 @@ Thus I circled around central streets, taking note of what is open, but nothing 
 Long story short, ended up having a worst burger in my life in a random bar nearby.
 Pre-Christmas hours were even shorter than usual, which is still more restrictive than in Moscow.
 And did you know the kitchens close an hour before the restaurant?
-The nigga bartenders suddenly went excited when I told them my origins.
+The bartenders suddenly went excited when I told them my origins.
 
 ## Day two: an attempt of self-aware museuming (museuing? whatever)
 
