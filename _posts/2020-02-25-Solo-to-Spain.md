@@ -103,9 +103,9 @@ Buenos Dias, motherfucker!
 Madrid has a pretty decent metro, it is dividen into several zones, and you mostly need zone A to explore the center. 
 The subsway is pretty fast and there are mechanical handles on the train doors, which mostly make no sense, because every door in the train gets open anyway.
 
-![Subway1]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+![Subway1]({{ site.baseurl }}\images\solo-to-spain\DSC_0205_2.jpg)
 
-![Subway2]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+![Subway2]({{ site.baseurl }}\images\solo-to-spain\DSC_0206_2.jpg)
 
 
 Fortunately, the airport is situated in zone A and you can purchace an unlimited ticket for the duration of your stay.
@@ -134,7 +134,7 @@ Thus I circled around central streets, taking note of what is open, but nothing 
 
 ![Mcdonalds]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
 
-![MadridStreets1]({{ site.baseurl }}\images\solo-to-spain\DSC_0179_2.jpg)
+![MadridStreets1]({{ site.baseurl }}\images\solo-to-spain\DSC_0193_1.jpg)
 
 ![MadridStreets2]({{ site.baseurl }}\images\solo-to-spain\DSC_0197_2.jpg)
 
@@ -163,13 +163,13 @@ It's probably harder to focus and be as efficient doing the same in your cozy fl
 you're wasting your precious travel-time staring at the screen.
 If you're me and wake up at random times, this can reduce your up-time.
 
-![Market1]({{ site.baseurl }}\images\solo-to-spain\DSC_0184_2.jpg)
-
 ![Market2]({{ site.baseurl }}\images\solo-to-spain\DSC_0185_2.jpg)
 
 ![Market3]({{ site.baseurl }}\images\solo-to-spain\DSC_0187_2.jpg) 
 
 ![Market4]({{ site.baseurl }}\images\solo-to-spain\DSC_0188_2.jpg) 
+
+![Market1]({{ site.baseurl }}\images\solo-to-spain\DSC_0184_2.jpg)
 
 ![Market5]({{ site.baseurl }}\images\solo-to-spain\DSC_0189_1.jpg) 
 
