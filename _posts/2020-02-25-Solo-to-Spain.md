@@ -550,7 +550,7 @@ This is arguably illustrative, as most important applications don't invole looki
 
 ![CosmoCaija4]({{ site.baseurl }}\images\solo-to-spain\DSC_0581.jpg) 
 
-![CosmoCaija5]({{ site.baseurl }}\images\solo-s--s\ain_0583.jpg) 
+![CosmoCaija5]({{ site.baseurl }}\images\solo-to-spain\DSC_0583.jpg) 
 
 ![CosmoCaija6]({{ site.baseurl }}\images\solo-to-spain\DSC_0586.jpg) 
 
