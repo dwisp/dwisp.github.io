@@ -25,6 +25,7 @@ What I intend for the nearest future [yeah sure] is tech-related posts and perso
 
 ### Thanks to:
 
+* To Pasha, best chef ever who brought me several day offs to get a visa
 * Patricia for showing me how beautiful Spanish sounds, a tour in Zaragoza and reccomending a "street for tapear"
 * Vitaly for suggesting CosmoCaija museum
 * Dmitrii for recommending to rent a bicycle and explore Casa de Campo
