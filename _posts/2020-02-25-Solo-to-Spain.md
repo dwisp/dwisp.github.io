@@ -583,15 +583,15 @@ I definitely recommend, just look at this:
 
 ![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0657.jpg) 
 
-![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0661.jpg) 
+![MarijuanaMuseum3]({{ site.baseurl }}\images\solo-to-spain\DSC_0661.jpg) 
 
-![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0667.jpg) 
+![MarijuanaMuseum4]({{ site.baseurl }}\images\solo-to-spain\DSC_0667.jpg) 
 
-![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0671.jpg) 
+![MarijuanaMuseum5]({{ site.baseurl }}\images\solo-to-spain\DSC_0671.jpg) 
 
-![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0675.jpg) 
+![MarijuanaMuseum6]({{ site.baseurl }}\images\solo-to-spain\DSC_0675.jpg) 
 
-![MarijuanaMuseum2]({{ site.baseurl }}\images\solo-to-spain\DSC_0678.jpg) 
+![MarijuanaMuseum7]({{ site.baseurl }}\images\solo-to-spain\DSC_0678.jpg) 
 
 In my opinion, it's awesome how many completely different things from various epochs and origins are connected by weed.
 Doctor's tools, propaganda posters, ceremonial tribal pipes, paintings depicting role of marijuana in medieval ages.
