@@ -670,11 +670,7 @@ Writing this post has me feeling I'm ending two things:
 They start to blend together.
 * Posts dedicated to travel experiences.
 Probably.
-For a long while I planned to implement some fun pet projects with
-
-$$ \LaTeX $$
-
-formulas, cool plots, stats, machine learning and fun nonsense.
+For a long while I planned to implement some fun pet projects with LaTeX formulas, cool plots, stats, machine learning and fun nonsense.
 Guess it's time to finally start making those.
 
 God no I don't want to see grey rectangular boxes again :C Plis plis!
