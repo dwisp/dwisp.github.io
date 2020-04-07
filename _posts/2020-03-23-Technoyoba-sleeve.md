@@ -67,7 +67,7 @@ Below are the references I consider the most influential.
 To be honest, I have no idea to what extent they were actually used, if at all.
 
 I know this one was, for sure:
-![moebius]({{ site.baseurl }}\images\sleeve\moebius.png)
+![moebius]({{ site.baseurl }}\images\sleeve\moebius.jpg)
 
 ### A weird-ass boss from Chaos Engine
 
