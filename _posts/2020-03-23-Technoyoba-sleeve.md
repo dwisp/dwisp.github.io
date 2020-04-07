@@ -83,11 +83,16 @@ If you look closer, you'll see the similarities to hair-like cables.
 ### Doom Eternal's Heaven
 
 Doom Eternal's Cyber Art Deco Heaven immediately caught my attention after the official arts were released.
+![heaven1]({{ site.baseurl }}\images\sleeve\heaven.jpg)
 
 Some people, including me, had a throwback to famous Hans Giger's works. 
 The Heaven had that [creepy and alien](https://www.youtube.com/watch?v=_P_-Z4voQic) feel to them I was after.
+![heaven2]({{ site.baseurl }}\images\sleeve\heaven_2.jpg)
 
 The Lady is loosely based on these concepts, although after completing the game, I prefer Killkenny's interpretation, at least on my arm.
+
+This is Khan Maykr, sort of Archangel from Doom:
+![heaven3]({{ site.baseurl }}\images\sleeve\heaven_3.png)
 
 ### Hyper Light Drifter's fallen civilisation
 
