@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      tecnhoyoba sleeve
+title:      Neurornamental technoyoba sleeve
 author:     ivan petrov
 categories: art
 thumbnail:  paint-brush
@@ -22,11 +22,6 @@ No one reads books without pics, no matter how interesing it is.
 ![sleeve2]({{ site.baseurl }}\images\sleeve\sleeve_2.jpg)
 
 ![sleeve3]({{ site.baseurl }}\images\sleeve\sleeve_3.jpg)
-
-![sleeve4]({{ site.baseurl }}\images\sleeve\sleeve_4.jpg)
-
-![sleeve5]({{ site.baseurl }}\images\sleeve\sleeve_5.jpg)
-
 
 Made by exceptionally talented bois
 
@@ -124,7 +119,11 @@ Go check it out now.
 # The outcome
 
 It's what you've seen in the very beginning.
-Looks pretty weird and surreal, I love it!
+Looks pretty weird and surreal, exactly how I wanted it.
+
+![sleeve4]({{ site.baseurl }}\images\sleeve\sleeve_4.jpg)
+
+![sleeve5]({{ site.baseurl }}\images\sleeve\sleeve_5.jpg)
 
 It's a very readable and colorful piece and I'm fucking enjoying wearing it.
 Also had a lot of great discussions with the authors during the seances, a refreshing experience after chatting with IT folks so much.
