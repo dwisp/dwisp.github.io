@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Neurornamental technoyoba sleeve
+title:      Neurornamental sleeve
 author:     ivan petrov
 categories: art
 thumbnail:  paint-brush
@@ -34,9 +34,9 @@ Getting more tatts after the first one is probably very common.
 The skin doesn't feel sacred anymore after breaking the seal.
 Probably exactly that happened.
 
-There aren't many tattoo masters I'm a fan of - after browsing Instagram for a long while, I found @aztattoart and got hooked immediately.
+There aren't many tattoo masters I'm a fan of - after browsing Instagram for a long while, I found [@aztattoart](https://www.instagram.com/aztattooart/) and got hooked immediately.
 
-Having decided I need a sleeve, our initial idea somehow warped into a collaboration with Killkenny, who did my first [torch tattoo](https://www.instagram.com/p/Bo083-pnI01/).
+Having decided I need a sleeve, our initial idea somehow warped into a collaboration with [@killkennykat](https://www.instagram.com/killkennykat/), who did my first [torch tattoo](https://www.instagram.com/p/Bo083-pnI01/).
 
 I prefer bigger pieces to smaller ones as anatomically adjusted and single idea-centered sleeve in most cases looks better than a dozen of patches.
 
@@ -46,7 +46,10 @@ I was always fascinated with technology, even more so after getting my applied m
 It's a way of tricking reality into doing what you want, a clever solution to make possible what was unimaginable before.
 
 One of my favorite things about sci-fi and cyberpunk in general is that technology is the only thing that allows completely new stuff to happen.
-[For example, potentially making a God with our own hands](https://www.youtube.com/watch?v=1b-bijO3uEw).
+Engineering and technology are some of the brightest manifestations of humanity.
+
+We even managed to invent plenty of cool stuff while seeking ways to exterminate others more effectively.
+Imagine your life without canned food for a second.
 
 Think of times when Ancient Greece thrived: the world wasn't really moving anywhere.
 It was stable at best, deteriorating at worst.
@@ -57,8 +60,14 @@ The shit was real when their great ancestor heroes performed their epic deeds.
 Since then, it only got worse.
 
 But now, everything's very different: we are dependent on technological advances and sincerely believe they will push out world into the brigher tomorrow.
+For example, we might even end up [making a God with our own hands (epic!)](https://www.youtube.com/watch?v=1b-bijO3uEw)!
+That conversation with Morpheus is what comes to my mind when I look at the final tattoo concept.
 
-I decided to facilitate on the idea that got me captivated.
+If you bought the above story, congratulations: you have been deceived.
+The very first idea was a tehnofantasy-themed movie poster sleeve resembling [Moebius's comics](https://www.lambiek.net/artists/g/giraud.htm).
+But if I kept explaining, I'd never finish this post, so please pretend you didn't read this or message me directly for extra parts of the story.
+
+In the end, I decided to facilitate on the idea that got me captivated.
 Ancient, arcane technology [so advanced it's almost indistingushable from magic](https://en.wikipedia.org/wiki/Clarke%27s_three_laws).
 
 ## References
@@ -73,12 +82,17 @@ I know this one was, for sure:
 
 This pic is stuck as my avatar for at leat 5 years now after stumbling onto it somewhere.
 Clicked with me once, never changed since then.
+I was deeply immersed in tech since the early childhood, having a PDA in school and reverse-engineering games on it.
+When I entered university, I dreamt that in the future I would design cybernetic prostetics akin to those of Deus Ex: Human Revolution.
+
+Once it gets hold of you and warps your mind, what is seen cannot be unseen.
 ![chaos_engine]({{ site.baseurl }}\images\sleeve\chaos_engine.png)
 
-Later I found out that this is actually a boss from an old game called The Chaos Engine.
-They actually have this guy (who's acutally... [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)?) without all the wiring and cables after the player defeats the Engine.
+Later I found out that this is a boss from an old game called The Chaos Engine.
+This hard-wired guy is acutally... [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage)?
+He is shown without all the wiring and cables after the player defeats the Engine.
 
-If you look closer, you'll see the similarities to hair-like cables.
+If you look closer, you'll see the similarities to hair-like cables the Lady has.
 
 ### Doom Eternal's Heaven
 
@@ -101,7 +115,8 @@ Accoring to the game lore, these are the ruins of once flourishing and advanced 
 
 Red circuitry-like patterns are based on HLD designs.
 It's curious that they originate from early Islamic patterns.
-![hld2]({{ site.baseurl }}\images\sleeve\hld_pattern_1.jpg)
+<!-- ![hld2]({{ site.baseurl }}\images\sleeve\hld_pattern_1.jpg) -->
+
 ![hld3]({{ site.baseurl }}\images\sleeve\hld_pattern_2.jpg)
 
 ### Tellurion's Ancestral Civilisation
@@ -125,10 +140,18 @@ Go check it out now.
 
 It's what you've seen in the very beginning.
 Looks pretty weird and surreal, exactly how I wanted it.
-
 ![sleeve4]({{ site.baseurl }}\images\sleeve\sleeve_4.jpg)
 
 ![sleeve5]({{ site.baseurl }}\images\sleeve\sleeve_5.jpg)
 
-It's a very readable and colorful piece and I'm fucking enjoying wearing it.
-Also had a lot of great discussions with the authors during the seances, a refreshing experience after chatting with IT folks so much.
+So, what or who is she?
+An Icon Of Technology?
+A Goddess of Big Data?
+
+
+It's a very readable and colorful piece of art.
+I'm fucking enjoying wearing it.
+Lesha said he sees tatts as permanent pieces of clothing or jewerelly, and that's what she partially is.
+
+Will there be a morale or a conclusion of some sort?
+Not likely.

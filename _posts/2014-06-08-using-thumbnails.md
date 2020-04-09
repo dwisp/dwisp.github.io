@@ -15,7 +15,7 @@ Carte Noire is designed to start each article with an all-white image as a
 thumbnail. These are created by adding a `thumbnail` parameter to the article's
 [YAML frontmatter][1]. This thumbnail parameter is processed in one of two ways,
 images specified in `_data/thumbnails.yml` or using [Font Awesome][2].
-
+   
 ## Images
 
 To use your own custom images as a thumbnail you must upload them to a web available
