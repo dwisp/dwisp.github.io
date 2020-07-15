@@ -36,7 +36,7 @@ Careful: good things are very easy to get used to ;)
 
 Basically, every keyboard consists of several significant components:
 
-### Base
+### Base / layout
 
 Can be:
 
