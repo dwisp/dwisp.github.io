@@ -18,8 +18,12 @@ Expensiveness repels beer, did you know?
 
 That new keeb was Das Keyboard Prime 13.
 At this point I have mixed feelings about the device, but two years ago the jump in quality was impressive.
+![DasKeyboard]({{ site.baseurl }}\images\keebs\daskeyboard.png)
 
 You can't simply buy just one keyboard, so after applying to Tele2, Vortex Race III RGB became my daily workhorse.
+
+![Vortex]({{ site.baseurl }}\images\keebs\vortex.png)
+
 And at this point I'll be replacing good ol' Das with customized Varmilo Vintage Days VA87AM.
 
 # Why do I even need this expensive piece of plastic?
@@ -38,6 +42,8 @@ Basically, every keyboard consists of several significant components:
 
 ### Base / layout
 
+![Layouts]({{ site.baseurl }}\images\keebs\layouts.png)
+
 Can be:
 
 * A standard office layout with a numpad. Ex. Varmilo Vintage Days VA108M 
@@ -50,6 +56,8 @@ It's easier to identify F keys while blind-typing if they are in blocks of 4.
 Same goes for home / end / pgUp / pgDn if they are separated.
 
 ### Switches
+
+![Switches]({{ site.baseurl }}\images\keebs\switches.png)
 
 Spring-based mechanism residing under every key on the mechanical keeb.
 Most keyboards have multiple switch variants to choose from.
@@ -84,6 +92,8 @@ The switches look identical save for the color.
 You can buy a tester to compare switches at home.
 
 ### Keycaps
+
+![Keycaps]({{ site.baseurl }}\images\keebs\keycaps.png)
 
 Keycaps are what you press on with your fingers.
 They are detachable, it's easy to clean and replace them.
