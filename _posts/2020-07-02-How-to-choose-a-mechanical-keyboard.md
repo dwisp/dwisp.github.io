@@ -9,6 +9,8 @@ tags:
  - hobby
 ---
 
+# My story
+
 When I bought Dell Alienware gaming PC three years ago, I thougth "Oh cool, it actually comes with a decent keyboard!".
 Then, some time later, beer was spilled.
 It went dead and I had to buy a new one.
@@ -144,24 +146,23 @@ Keep your keeb clean, especially if there are pets around.
 
 ### Bonus: manufacturer descriptions
 
-* Das Keyboard: Better than membranes, but poor relative to every other maufacturer.
+* **Das Keyboard**: Better than membranes, but poor relative to every other maufacturer.
 Let's position ourselves as premium keyboards anyway and set a similar price tag.
-* Varmilo: We lubed the stabilizers 347 times.
+* **Varmilo**: We lubed the stabilizers 347 times.
 And put in a backlight.
 And threw in different color variants.
 Groovy.
-* Leopold:
-Nooooo!!
+* **Leopold**: Nooooo!!
 These expensive keebs are for serious people only!
-No backlight and only classic-looking designs, bitches.
+No backlight and only classic-looking designs.
 Also, we've got Topre switches in case you wanna be even more elite.
-* Vortex: We're weird asian dudes, hold my sake, laowai.
+* **Vortex**: We're weird asian dudes, hold my sake, laowai.
 So here's cool custom keycaps with huge letters.
 And a programmable keeb with fully customizable backlight.
 And a bluetooth keeb.
 And one that has almost no keys.
-* Ducky:
+* **Ducky**:
 Here's a 50% chance of receiving a malfunctioning keyboard.
 Otherwise, sorta ok.
-* Fujitsu, HHKB: Look at out elite topre keyboards with as little keys as possible!
+* **Fujitsu, HHKB**: Look at out elite topre keyboards with as little keys as possible!
 If you're abe to get used to it, you're a true Hollywood hacker indeed.
