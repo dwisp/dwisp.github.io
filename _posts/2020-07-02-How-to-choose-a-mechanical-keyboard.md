@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout:     post
 title:      How to choose a mechanical keyboard
 author:     ivan petrov
