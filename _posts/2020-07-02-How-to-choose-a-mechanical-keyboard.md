@@ -59,10 +59,12 @@ Same goes for home / end / pgUp / pgDn if they are separated.
 
 ### Switches
 
-![Switches]({{ site.baseurl }}\images\keebs\switches.png)
-
 Spring-based mechanism residing under every key on the mechanical keeb.
 Most keyboards have multiple switch variants to choose from.
+
+![Switches]({{ site.baseurl }}\images\keebs\switches.png)
+
+![Switches2]({{ site.baseurl }}\images\keebs\switches2.png)
 
 Picking a switch is the most important thing when choosing a keeb, as it's heavily subjective and depends on personal preferences.
 
