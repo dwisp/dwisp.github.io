@@ -43,8 +43,6 @@ Basically, every keyboard consists of several significant components:
 
 ### Base / layout
 
-![Layouts]({{ site.baseurl }}\images\keebs\layouts.png)
-
 Can be:
 
 * A standard office layout with a numpad. Ex. Varmilo Vintage Days VA108M 
