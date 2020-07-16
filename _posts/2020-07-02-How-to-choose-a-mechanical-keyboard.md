@@ -23,7 +23,6 @@ At this point I have mixed feelings about the device, but two years ago the jump
 ![DasKeyboard]({{ site.baseurl }}\images\keebs\daskeyboard.png)
 
 You can't simply buy just one keyboard, so after applying to Tele2, Vortex Race III RGB became my daily workhorse.
-
 ![Vortex]({{ site.baseurl }}\images\keebs\vortex.png)
 
 And at this point I'll be replacing good ol' Das with customized Varmilo Vintage Days VA87AM.
@@ -61,10 +60,7 @@ Same goes for home / end / pgUp / pgDn if they are separated.
 
 Spring-based mechanism residing under every key on the mechanical keeb.
 Most keyboards have multiple switch variants to choose from.
-
-![Switches]({{ site.baseurl }}\images\keebs\switches.png)
-
-![Switches2]({{ site.baseurl }}\images\keebs\switches2.png)
+![Switches3]({{ site.baseurl }}\images\keebs\switches2.png)
 
 Picking a switch is the most important thing when choosing a keeb, as it's heavily subjective and depends on personal preferences.
 
