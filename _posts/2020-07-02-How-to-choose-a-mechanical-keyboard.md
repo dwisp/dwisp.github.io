@@ -22,7 +22,7 @@ That new keeb was Das Keyboard Prime 13.
 At this point I have mixed feelings about the device, but two years ago the jump in quality was impressive.
 ![DasKeyboard]({{ site.baseurl }}\images\keebs\daskeyboard.png)
 
-You can't simply buy just one keyboard, so after applying to Tele2, Vortex Race III RGB became my daily workhorse.
+You can't simply buy just one keyboard, so after applying to Tele2, Vortex Race III RGB became my daily driver.
 ![Vortex]({{ site.baseurl }}\images\keebs\vortex.png)
 
 And at this point I'll be replacing good ol' Das with customized Varmilo Vintage Days VA87AM.
