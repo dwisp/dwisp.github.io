@@ -2,7 +2,7 @@
 published: true
 layout:     post
 title:      How to choose a mechanical keyboard
-author:     ivan petrov
+author:     Ivan Petrov
 categories: tech
 thumbnail:  keyboard
 tags:
